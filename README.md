@@ -6,12 +6,35 @@ I use Rdio a lot and I saw a lot of playlists like "iTunes Top 100" or anything 
 How to use
 ==========
 
-`php itunes-to-rdio.php <iTunes URL> <Rdio Playlist URL>`
+- You need to edit config.php.sample to include your Rdio Developer Key:
+
+    `http://developer.rdio.com/member/register`
+
+- Edit the invoke script with the proper Rdio Playlist IDs and iTunes URLs.
+
+    - You must already have created the playlist.
+    - You can find iTunes RSS feeds here:
+
+        `http://itunes.apple.com/rss/generator/`
+
+- THEN:
+
+        You can use the invoke script:
+
+        `php invoke.php`
+
+        -- OR --
+
+        You can run the script individually:
+
+        `php itunes-to-rdio.php <Rdio Playlist ID> <iTunes Playlist URL>`
 
 Example iTunes URL:
+
 `http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topsongs/sf=143441/limit=100/json`
 
 Example Rdio Playlist URL:
+
 `http://www.rdio.com/#/people/sluzorz/playlists/294061/Mixed_(Rock__Pop)/`
 
 How it works
