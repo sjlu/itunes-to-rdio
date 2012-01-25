@@ -2,6 +2,12 @@
 require_once 'config.php';
 require_once 'rdio/php/rdio.php';
 
+if (empty($argv[1]) || empty($argv[2]))
+   die("Usage: php itunes-to-rdio.php <Rdio Playlist ID> <iTunes URL>\n");
+
+$rdio_playlist_id = $argv[1];
+$itunes_url = $argv[2];
+
 // STEP 1: LOGIN TO RDIO
 // We need to authenticate to Rdio before we
 // can move on with the rest of our script.
@@ -31,7 +37,7 @@ if (empty($session))
 }
 
 // STEP 2: Checking if user has that playlist.
-$playlist_id = 'p'.RDIO_PLAYLIST_ID;
+$playlist_id = 'p'.$rdio_playlist_id;
 $playlists = $rdio->call('getPlaylists')->result->owned;
 
 $has_playlist = false;
@@ -49,7 +55,7 @@ if (!$has_playlist)
 
 // STEP 3: Now we grab the iTunes data!
 // And try to find it on Rdio!
-$itunes = file_get_contents(ITUNES_URL);
+$itunes = file_get_contents($itunes_url);
 $itunes = json_decode($itunes, true);
 
 $add_songs = array();
@@ -122,15 +128,22 @@ $rdio->call('removeFromPlaylist', array(
 echo "\nAdding songs to Rdio Playlist: " . $playlist_id;
 
 // STEP 5: Adding all the songs into the playlist.
+foreach ($add_songs as $song)
+   $rdio->call('addToPlaylist', array(
+      "playlist" => $playlist_id,
+      "tracks" => $song
+   ));
+
+/*
 $rdio->call('addToPlaylist', array(
    "playlist" => $playlist_id, 
    "tracks" => implode(",", $add_songs)
 ));
 
-$rdio->call('setPlaylistOrder', array( // for some reason adding does not set order.
+print_r($rdio->call('setPlaylistOrder', array( // for some reason adding does not set order.
    "playlist" => $playlist_id,
    "tracks" => implode(",", $add_songs)
-));
-
+)));
+*/
 echo "\n";
 ?>
