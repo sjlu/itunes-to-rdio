@@ -1,0 +1,2189 @@
+Turn Me On 
+Array
+(
+    [0] => stdClass Object
+        (
+            [baseIcon] => album/2/b/5/00000000000eb5b2/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/David_Guetta/
+            [duration] => 199
+            [album] => Nothing But The Beat
+            [isClean] => 
+            [albumUrl] => /artist/David_Guetta/album/Nothing_But_The_Beat_2/
+            [shortUrl] => http://rd.io/x/QNP_K-h2iw
+            [albumArtist] => David Guetta
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K-h2iw
+            [type] => t
+            [price] => 1.29
+            [trackNum] => 3
+            [albumArtistKey] => r22873
+            [key] => t11217369
+            [icon] => http://media.rd.io/album/2/b/5/00000000000eb5b2/square-200.jpg
+            [canSample] => 1
+            [name] => Turn Me On (feat. Nicki Minaj)
+            [isExplicit] => 
+            [artistKey] => r22873
+            [url] => /artist/David_Guetta/album/Nothing_But_The_Beat_2/track/Turn_Me_On_(feat._Nicki_Minaj)/
+            [albumKey] => a964018
+            [artist] => David Guetta
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [1] => stdClass Object
+        (
+            [baseIcon] => album/2/f/2/00000000000542f2/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/The_Shins/
+            [duration] => 221
+            [album] => Wincing The Night Away
+            [isClean] => 
+            [albumUrl] => /artist/The_Shins/album/Wincing_The_Night_Away/
+            [shortUrl] => http://rd.io/x/QNP_KwPkFg
+            [albumArtist] => The Shins
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_KwPkFg
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 7
+            [albumArtistKey] => r86272
+            [key] => t4242244
+            [icon] => http://media.rd.io/album/2/f/2/00000000000542f2/square-200.jpg
+            [canSample] => 1
+            [name] => Turn On Me
+            [isExplicit] => 
+            [artistKey] => r86272
+            [url] => /artist/The_Shins/album/Wincing_The_Night_Away/track/Turn_On_Me/
+            [albumKey] => a344818
+            [artist] => The Shins
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [2] => stdClass Object
+        (
+            [baseIcon] => album/b/5/5/000000000002f55b/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Norah_Jones/
+            [duration] => 154
+            [album] => Come Away With Me
+            [isClean] => 
+            [albumUrl] => /artist/Norah_Jones/album/Come_Away_With_Me/
+            [shortUrl] => http://rd.io/x/QNP_K2DxzA
+            [albumArtist] => Norah Jones
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K2DxzA
+            [type] => t
+            [price] => 1.29
+            [trackNum] => 7
+            [albumArtistKey] => r99848
+            [key] => t2338462
+            [icon] => http://media.rd.io/album/b/5/5/000000000002f55b/square-200.jpg
+            [canSample] => 1
+            [name] => Turn Me On
+            [isExplicit] => 
+            [artistKey] => r99848
+            [url] => /artist/Norah_Jones/album/Come_Away_With_Me/track/Turn_Me_On/
+            [albumKey] => a193883
+            [artist] => Norah Jones
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [3] => stdClass Object
+        (
+            [baseIcon] => album/d/6/c/0000000000019c6d/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Kevin_Lyttle/
+            [duration] => 193
+            [album] => Turn Me On
+            [isClean] => 
+            [albumUrl] => /artist/Kevin_Lyttle/album/Turn_Me_On/
+            [shortUrl] => http://rd.io/x/QNP_K1DfAg
+            [albumArtist] => Kevin Lyttle
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K1DfAg
+            [type] => t
+            [price] => 1.29
+            [trackNum] => 1
+            [albumArtistKey] => r89827
+            [key] => t1278032
+            [icon] => http://media.rd.io/album/d/6/c/0000000000019c6d/square-200.jpg
+            [canSample] => 1
+            [name] => Turn Me On
+            [isExplicit] => 
+            [artistKey] => r89827
+            [url] => /artist/Kevin_Lyttle/album/Turn_Me_On/track/Turn_Me_On/
+            [albumKey] => a105581
+            [artist] => Kevin Lyttle
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [4] => stdClass Object
+        (
+            [baseIcon] => album/1/7/5/00000000000eb571/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/David_Guetta/
+            [duration] => 199
+            [album] => Nothing But The Beat
+            [isClean] => 
+            [albumUrl] => /artist/David_Guetta/album/Nothing_But_The_Beat/
+            [shortUrl] => http://rd.io/x/QNP_K-h2eg
+            [albumArtist] => David Guetta
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K-h2eg
+            [type] => t
+            [price] => 1.29
+            [trackNum] => 3
+            [albumArtistKey] => r22873
+            [key] => t11217192
+            [icon] => http://media.rd.io/album/1/7/5/00000000000eb571/square-200.jpg
+            [canSample] => 1
+            [name] => Turn Me On (feat. Nicki Minaj)
+            [isExplicit] => 
+            [artistKey] => r22873
+            [url] => /artist/David_Guetta/album/Nothing_But_The_Beat/track/Turn_Me_On_(feat._Nicki_Minaj)/
+            [albumKey] => a963953
+            [artist] => David Guetta
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [5] => stdClass Object
+        (
+            [baseIcon] => album/2/d/d/00000000000c8dd2/square-200.jpg
+            [canDownloadAlbumOnly] => 
+            [artistUrl] => /artist/Gorilla_Zoe/
+            [duration] => 262
+            [album] => King Kong
+            [isClean] => 
+            [albumUrl] => /artist/Gorilla_Zoe/album/King_Kong/
+            [shortUrl] => http://rd.io/x/QNP_K9A77g
+            [albumArtist] => Gorilla Zoe
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K9A77g
+            [type] => t
+            [price] => None
+            [trackNum] => 11
+            [albumArtistKey] => r19101
+            [key] => t9659580
+            [icon] => http://media.rd.io/album/2/d/d/00000000000c8dd2/square-200.jpg
+            [canSample] => 1
+            [name] => Turn Me On
+            [isExplicit] => 
+            [artistKey] => r19101
+            [url] => /artist/Gorilla_Zoe/album/King_Kong/track/Turn_Me_On/
+            [albumKey] => a822738
+            [artist] => Gorilla Zoe
+            [canDownload] => 
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [6] => stdClass Object
+        (
+            [baseIcon] => album/f/a/6/00000000000556af/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/All_Time_Low/
+            [duration] => 232
+            [album] => So Wrong, It's Right
+            [isClean] => 
+            [albumUrl] => /artist/All_Time_Low/album/So_Wrong%2C_It%27s_Right/
+            [shortUrl] => http://rd.io/x/QNP_KwLz-w
+            [albumArtist] => All Time Low
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_KwLz-w
+            [type] => t
+            [price] => 1.29
+            [trackNum] => 4
+            [albumArtistKey] => r86197
+            [key] => t4304041
+            [icon] => http://media.rd.io/album/f/a/6/00000000000556af/square-200.jpg
+            [canSample] => 1
+            [name] => Holly (Would You Turn Me On?)
+            [isExplicit] => 
+            [artistKey] => r86197
+            [url] => /artist/All_Time_Low/album/So_Wrong%2C_It%27s_Right/track/Holly_(Would_You_Turn_Me_On)/
+            [albumKey] => a349871
+            [artist] => All Time Low
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [7] => stdClass Object
+        (
+            [baseIcon] => album/d/7/a/0000000000019a7d/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Dwight_Yoakam/
+            [duration] => 204
+            [album] => The Very Best Of Dwight Yoakam (Download Version)
+            [isClean] => 
+            [albumUrl] => /artist/Dwight_Yoakam/album/The_Very_Best_Of_Dwight_Yoakam_(Download_Version)/
+            [shortUrl] => http://rd.io/x/QNP_K1AyzA
+            [albumArtist] => Dwight Yoakam
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K1AyzA
+            [type] => t
+            [price] => 1.29
+            [trackNum] => 9
+            [albumArtistKey] => r84979
+            [key] => t1273246
+            [icon] => http://media.rd.io/album/d/7/a/0000000000019a7d/square-200.jpg
+            [canSample] => 1
+            [name] => Turn It On, Turn It Up, Turn Me Loose
+            [isExplicit] => 
+            [artistKey] => r84979
+            [url] => /artist/Dwight_Yoakam/album/The_Very_Best_Of_Dwight_Yoakam_(Download_Version)/track/Turn_It_On%2C_Turn_It_Up%2C_Turn_Me_Loose/
+            [albumKey] => a105085
+            [artist] => Dwight Yoakam
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [8] => stdClass Object
+        (
+            [baseIcon] => album/3/1/9/0000000000041913/square-200.jpg
+            [canDownloadAlbumOnly] => 
+            [artistUrl] => /artist/2Pac/
+            [duration] => 212
+            [album] => Until The End Of Time
+            [isClean] => 
+            [albumUrl] => /artist/2Pac/album/Until_The_End_Of_Time_1/
+            [shortUrl] => http://rd.io/x/QNP_K3FtvQ
+            [albumArtist] => 2Pac
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K3FtvQ
+            [type] => t
+            [price] => None
+            [trackNum] => 22
+            [albumArtistKey] => r66033
+            [key] => t3289839
+            [icon] => http://media.rd.io/album/3/1/9/0000000000041913/square-200.jpg
+            [canSample] => 1
+            [name] => Why U Turn On Me (Album Version (Explicit))
+            [isExplicit] => 1
+            [artistKey] => r66033
+            [url] => /artist/2Pac/album/Until_The_End_Of_Time_1/track/Why_U_Turn_On_Me_(Album_Version_(Explicit))/
+            [albumKey] => a268563
+            [artist] => 2Pac
+            [canDownload] => 
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [9] => stdClass Object
+        (
+            [baseIcon] => album/b/6/0/000000000009606b/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/James_Blunt/
+            [duration] => 149
+            [album] => Some Kind Of Trouble
+            [isClean] => 
+            [albumUrl] => /artist/James_Blunt/album/Some_Kind_Of_Trouble_2/
+            [shortUrl] => http://rd.io/x/QNP_KzMjUQ
+            [albumArtist] => James Blunt
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_KzMjUQ
+            [type] => t
+            [price] => 1.29
+            [trackNum] => 12
+            [albumArtistKey] => r85785
+            [key] => t7371779
+            [icon] => http://media.rd.io/album/b/6/0/000000000009606b/square-200.jpg
+            [canSample] => 1
+            [name] => Turn Me On
+            [isExplicit] => 
+            [artistKey] => r85785
+            [url] => /artist/James_Blunt/album/Some_Kind_Of_Trouble_2/track/Turn_Me_On/
+            [albumKey] => a614507
+            [artist] => James Blunt
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+)
+What Doesn't Kill You 
+Array
+(
+    [0] => stdClass Object
+        (
+            [baseIcon] => album/e/c/e/0000000000106ece/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Kelly_Clarkson/
+            [duration] => 222
+            [album] => Stronger (Deluxe Version)
+            [isClean] => 
+            [albumUrl] => /artist/Kelly_Clarkson/album/Stronger_(Deluxe_Version)/
+            [shortUrl] => http://rd.io/x/QNP_K_88Dw
+            [albumArtist] => Kelly Clarkson
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K_88Dw
+            [type] => t
+            [price] => 1.29
+            [trackNum] => 2
+            [albumArtistKey] => r141521
+            [key] => t12346205
+            [icon] => http://media.rd.io/album/e/c/e/0000000000106ece/square-200.jpg
+            [canSample] => 1
+            [name] => What Doesn't Kill You (Stronger)
+            [isExplicit] => 
+            [artistKey] => r141521
+            [url] => /artist/Kelly_Clarkson/album/Stronger_(Deluxe_Version)/track/What_Doesn%27t_Kill_You_(Stronger)/
+            [albumKey] => a1076942
+            [artist] => Kelly Clarkson
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [1] => stdClass Object
+        (
+            [baseIcon] => album/9/c/e/0000000000106ec9/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Kelly_Clarkson/
+            [duration] => 222
+            [album] => Stronger
+            [isClean] => 
+            [albumUrl] => /artist/Kelly_Clarkson/album/Stronger/
+            [shortUrl] => http://rd.io/x/QNP_K_89qw
+            [albumArtist] => Kelly Clarkson
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K_89qw
+            [type] => t
+            [price] => 1.29
+            [trackNum] => 2
+            [albumArtistKey] => r141521
+            [key] => t12346105
+            [icon] => http://media.rd.io/album/9/c/e/0000000000106ec9/square-200.jpg
+            [canSample] => 1
+            [name] => What Doesn't Kill You (Stronger)
+            [isExplicit] => 
+            [artistKey] => r141521
+            [url] => /artist/Kelly_Clarkson/album/Stronger/track/What_Doesn%27t_Kill_You_(Stronger)/
+            [albumKey] => a1076937
+            [artist] => Kelly Clarkson
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [2] => stdClass Object
+        (
+            [baseIcon] => album/9/3/1/0000000000096139/square-200.jpg
+            [canDownloadAlbumOnly] => 
+            [artistUrl] => /artist/Gay_For_Johnny_Depp/
+            [duration] => 169
+            [album] => What Doesn't Kill You, Eventually Kills You
+            [isClean] => 
+            [albumUrl] => /artist/Gay_For_Johnny_Depp/album/What_Doesn%27t_Kill_You%2C_Eventually_Kills_You/
+            [shortUrl] => http://rd.io/x/QNP_KzPavQ
+            [albumArtist] => Gay For Johnny Depp
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_KzPavQ
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 11
+            [albumArtistKey] => r97367
+            [key] => t7374319
+            [icon] => http://media.rd.io/album/9/3/1/0000000000096139/square-200.jpg
+            [canSample] => 1
+            [name] => Cum On Feel The Boize
+            [isExplicit] => 
+            [artistKey] => r97367
+            [url] => /artist/Gay_For_Johnny_Depp/album/What_Doesn%27t_Kill_You%2C_Eventually_Kills_You/track/Cum_On_Feel_The_Boize/
+            [albumKey] => a614713
+            [artist] => Gay For Johnny Depp
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [3] => stdClass Object
+        (
+            [baseIcon] => album/9/b/5/000000000002a5b9/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Candiria/
+            [duration] => 196
+            [album] => What Doesn't Kill You
+            [isClean] => 
+            [albumUrl] => /artist/Candiria/album/What_Doesn%27t_Kill_You/
+            [shortUrl] => http://rd.io/x/QNP_K1zi0Q
+            [albumArtist] => Candiria
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K1zi0Q
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 3
+            [albumArtistKey] => r65699
+            [key] => t2080131
+            [icon] => http://media.rd.io/album/9/b/5/000000000002a5b9/square-200.jpg
+            [canSample] => 1
+            [name] => Blood
+            [isExplicit] => 
+            [artistKey] => r65699
+            [url] => /artist/Candiria/album/What_Doesn%27t_Kill_You/track/Blood/
+            [albumKey] => a173497
+            [artist] => Candiria
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [4] => stdClass Object
+        (
+            [baseIcon] => album/9/b/5/000000000002a5b9/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Candiria/
+            [duration] => 204
+            [album] => What Doesn't Kill You
+            [isClean] => 
+            [albumUrl] => /artist/Candiria/album/What_Doesn%27t_Kill_You/
+            [shortUrl] => http://rd.io/x/QNP_K1ziUQ
+            [albumArtist] => Candiria
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K1ziUQ
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 1
+            [albumArtistKey] => r65699
+            [key] => t2080003
+            [icon] => http://media.rd.io/album/9/b/5/000000000002a5b9/square-200.jpg
+            [canSample] => 1
+            [name] => Dead Bury The Dead
+            [isExplicit] => 
+            [artistKey] => r65699
+            [url] => /artist/Candiria/album/What_Doesn%27t_Kill_You/track/Dead_Bury_The_Dead/
+            [albumKey] => a173497
+            [artist] => Candiria
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [5] => stdClass Object
+        (
+            [baseIcon] => album/9/b/5/000000000002a5b9/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Candiria/
+            [duration] => 211
+            [album] => What Doesn't Kill You
+            [isClean] => 
+            [albumUrl] => /artist/Candiria/album/What_Doesn%27t_Kill_You/
+            [shortUrl] => http://rd.io/x/QNP_K1zhGg
+            [albumArtist] => Candiria
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K1zhGg
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 6
+            [albumArtistKey] => r65699
+            [key] => t2080328
+            [icon] => http://media.rd.io/album/9/b/5/000000000002a5b9/square-200.jpg
+            [canSample] => 1
+            [name] => Down
+            [isExplicit] => 
+            [artistKey] => r65699
+            [url] => /artist/Candiria/album/What_Doesn%27t_Kill_You/track/Down/
+            [albumKey] => a173497
+            [artist] => Candiria
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [6] => stdClass Object
+        (
+            [baseIcon] => album/9/3/1/0000000000096139/square-200.jpg
+            [canDownloadAlbumOnly] => 
+            [artistUrl] => /artist/Gay_For_Johnny_Depp/
+            [duration] => 113
+            [album] => What Doesn't Kill You, Eventually Kills You
+            [isClean] => 
+            [albumUrl] => /artist/Gay_For_Johnny_Depp/album/What_Doesn%27t_Kill_You%2C_Eventually_Kills_You/
+            [shortUrl] => http://rd.io/x/QNP_KzPahA
+            [albumArtist] => Gay For Johnny Depp
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_KzPahA
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 2
+            [albumArtistKey] => r97367
+            [key] => t7374294
+            [icon] => http://media.rd.io/album/9/3/1/0000000000096139/square-200.jpg
+            [canSample] => 1
+            [name] => Suckcess
+            [isExplicit] => 
+            [artistKey] => r97367
+            [url] => /artist/Gay_For_Johnny_Depp/album/What_Doesn%27t_Kill_You%2C_Eventually_Kills_You/track/Suckcess/
+            [albumKey] => a614713
+            [artist] => Gay For Johnny Depp
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [7] => stdClass Object
+        (
+            [baseIcon] => album/9/3/1/0000000000096139/square-200.jpg
+            [canDownloadAlbumOnly] => 
+            [artistUrl] => /artist/Gay_For_Johnny_Depp/
+            [duration] => 107
+            [album] => What Doesn't Kill You, Eventually Kills You
+            [isClean] => 
+            [albumUrl] => /artist/Gay_For_Johnny_Depp/album/What_Doesn%27t_Kill_You%2C_Eventually_Kills_You/
+            [shortUrl] => http://rd.io/x/QNP_KzPahw
+            [albumArtist] => Gay For Johnny Depp
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_KzPahw
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 1
+            [albumArtistKey] => r97367
+            [key] => t7374293
+            [icon] => http://media.rd.io/album/9/3/1/0000000000096139/square-200.jpg
+            [canSample] => 1
+            [name] => Santa Claus, The Easter Bunny And Artistic Integrity
+            [isExplicit] => 
+            [artistKey] => r97367
+            [url] => /artist/Gay_For_Johnny_Depp/album/What_Doesn%27t_Kill_You%2C_Eventually_Kills_You/track/Santa_Claus%2C_The_Easter_Bunny_And_Artistic_Integrity/
+            [albumKey] => a614713
+            [artist] => Gay For Johnny Depp
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [8] => stdClass Object
+        (
+            [baseIcon] => album/9/b/5/000000000002a5b9/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Candiria/
+            [duration] => 179
+            [album] => What Doesn't Kill You
+            [isClean] => 
+            [albumUrl] => /artist/Candiria/album/What_Doesn%27t_Kill_You/
+            [shortUrl] => http://rd.io/x/QNP_K1zgXQ
+            [albumArtist] => Candiria
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K1zgXQ
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 9
+            [albumArtistKey] => r65699
+            [key] => t2080527
+            [icon] => http://media.rd.io/album/9/b/5/000000000002a5b9/square-200.jpg
+            [canSample] => 1
+            [name] => Vacant
+            [isExplicit] => 
+            [artistKey] => r65699
+            [url] => /artist/Candiria/album/What_Doesn%27t_Kill_You/track/Vacant/
+            [albumKey] => a173497
+            [artist] => Candiria
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [9] => stdClass Object
+        (
+            [baseIcon] => album/9/b/5/000000000002a5b9/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Candiria/
+            [duration] => 226
+            [album] => What Doesn't Kill You
+            [isClean] => 
+            [albumUrl] => /artist/Candiria/album/What_Doesn%27t_Kill_You/
+            [shortUrl] => http://rd.io/x/QNP_K1zikw
+            [albumArtist] => Candiria
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K1zikw
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 4
+            [albumArtistKey] => r65699
+            [key] => t2080193
+            [icon] => http://media.rd.io/album/9/b/5/000000000002a5b9/square-200.jpg
+            [canSample] => 1
+            [name] => Remove Yourself
+            [isExplicit] => 
+            [artistKey] => r65699
+            [url] => /artist/Candiria/album/What_Doesn%27t_Kill_You/track/Remove_Yourself/
+            [albumKey] => a173497
+            [artist] => Candiria
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+)
+Set Fire to the Rain
+Array
+(
+    [0] => stdClass Object
+        (
+            [baseIcon] => album/3/8/0/000000000009f083/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Adele/
+            [duration] => 241
+            [album] => 21
+            [isClean] => 
+            [albumUrl] => /artist/Adele/album/21_1/
+            [shortUrl] => http://rd.io/x/QNP_KzUyZA
+            [albumArtist] => Adele
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_KzUyZA
+            [type] => t
+            [price] => 1.29
+            [trackNum] => 5
+            [albumArtistKey] => r91329
+            [key] => t7761206
+            [icon] => http://media.rd.io/album/3/8/0/000000000009f083/square-200.jpg
+            [canSample] => 1
+            [name] => Set Fire To The Rain
+            [isExplicit] => 
+            [artistKey] => r91329
+            [url] => /artist/Adele/album/21_1/track/Set_Fire_To_The_Rain/
+            [albumKey] => a651395
+            [artist] => Adele
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [1] => stdClass Object
+        (
+            [baseIcon] => album/d/d/e/00000000000c5edd/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Karmin/
+            [duration] => 212
+            [album] => Karmin Covers Volume 1
+            [isClean] => 
+            [albumUrl] => /artist/Karmin/album/Karmin_Covers_Volume_1/
+            [shortUrl] => http://rd.io/x/QNP_K9LUmg
+            [albumArtist] => Karmin
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K9LUmg
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 20
+            [albumArtistKey] => r618407
+            [key] => t9538504
+            [icon] => http://media.rd.io/album/d/d/e/00000000000c5edd/square-200.jpg
+            [canSample] => 1
+            [name] => Set Fire to the Rain
+            [isExplicit] => 
+            [artistKey] => r618407
+            [url] => /artist/Karmin/album/Karmin_Covers_Volume_1/track/Set_Fire_to_the_Rain/
+            [albumKey] => a810717
+            [artist] => Karmin
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [2] => stdClass Object
+        (
+            [baseIcon] => album/6/c/a/0000000000113ac6/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Tribute_Stars/
+            [duration] => 243
+            [album] => Adele - Set Fire To The Rain (Vocal Melody Version)
+            [isClean] => 
+            [albumUrl] => /artist/Tribute_Stars/album/Adele_-_Set_Fire_To_The_Rain_(Vocal_Melody_Version)/
+            [shortUrl] => http://rd.io/x/QNP_K4bItQ
+            [albumArtist] => Tribute Stars
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K4bItQ
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 1
+            [albumArtistKey] => r4787
+            [key] => t12949479
+            [icon] => http://media.rd.io/album/6/c/a/0000000000113ac6/square-200.jpg
+            [canSample] => 1
+            [name] => Adele - Set Fire To The Rain (Vocal Melody Version)
+            [isExplicit] => 
+            [artistKey] => r4787
+            [url] => /artist/Tribute_Stars/album/Adele_-_Set_Fire_To_The_Rain_(Vocal_Melody_Version)/track/Adele_-_Set_Fire_To_The_Rain_(Vocal_Melody_Version)/
+            [albumKey] => a1129158
+            [artist] => Tribute Stars
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [3] => stdClass Object
+        (
+            [baseIcon] => album/0/e/5/00000000000f05e0/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Audiogroove/
+            [duration] => 242
+            [album] => Set Fire to the Rain (Single)
+            [isClean] => 
+            [albumUrl] => /artist/Audiogroove/album/Set_Fire_to_the_Rain_(Single)/
+            [shortUrl] => http://rd.io/x/QNP_K-34XQ
+            [albumArtist] => Audiogroove
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K-34XQ
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 1
+            [albumArtistKey] => r814238
+            [key] => t11446031
+            [icon] => http://media.rd.io/album/0/e/5/00000000000f05e0/square-200.jpg
+            [canSample] => 1
+            [name] => Set Fire to the Rain
+            [isExplicit] => 
+            [artistKey] => r814238
+            [url] => /artist/Audiogroove/album/Set_Fire_to_the_Rain_(Single)/track/Set_Fire_to_the_Rain/
+            [albumKey] => a984544
+            [artist] => Audiogroove
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [4] => stdClass Object
+        (
+            [baseIcon] => album/0/c/e/00000000000a8ec0/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Off_The_Record/
+            [duration] => 240
+            [album] => Set Fire To The Rain
+            [isClean] => 
+            [albumUrl] => /artist/Off_The_Record/album/Set_Fire_To_The_Rain/
+            [shortUrl] => http://rd.io/x/QNP_Kz7uyQ
+            [albumArtist] => Off The Record
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_Kz7uyQ
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 1
+            [albumArtistKey] => r213682
+            [key] => t8237467
+            [icon] => http://media.rd.io/album/0/c/e/00000000000a8ec0/square-200.jpg
+            [canSample] => 1
+            [name] => Set Fire To The Rain (made famous Adele)
+            [isExplicit] => 
+            [artistKey] => r213682
+            [url] => /artist/Off_The_Record/album/Set_Fire_To_The_Rain/track/Set_Fire_To_The_Rain_(made_famous_Adele)/
+            [albumKey] => a691904
+            [artist] => Off The Record
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [5] => stdClass Object
+        (
+            [baseIcon] => album/0/e/b/00000000000e1be0/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/TK/
+            [duration] => 322
+            [album] => Kuduro Party Compilation
+            [isClean] => 
+            [albumUrl] => /artist/Various_Artists/album/Kuduro_Party_Compilation/
+            [shortUrl] => http://rd.io/x/QNP_K-fKug
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K-fKug
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 13
+            [key] => t10786280
+            [icon] => http://media.rd.io/album/0/e/b/00000000000e1be0/square-200.jpg
+            [canSample] => 1
+            [name] => Set Fire to the Rain (A.R. Remix)
+            [isExplicit] => 
+            [artistKey] => r115790
+            [url] => /artist/TK/album/Kuduro_Party_Compilation/track/Set_Fire_to_the_Rain_(A.R._Remix)/
+            [albumKey] => a924640
+            [artist] => TK
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [6] => stdClass Object
+        (
+            [baseIcon] => album/8/5/f/00000000000bef58/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Vitamin_String_Quartet/
+            [duration] => 240
+            [album] => Vitamin String Quartet Performs Adele
+            [isClean] => 
+            [albumUrl] => /artist/Vitamin_String_Quartet/album/Vitamin_String_Quartet_Performs_Adele/
+            [shortUrl] => http://rd.io/x/QNP_K8_rlg
+            [albumArtist] => Vitamin String Quartet
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K8_rlg
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 2
+            [albumArtistKey] => r260875
+            [key] => t9221316
+            [icon] => http://media.rd.io/album/8/5/f/00000000000bef58/square-200.jpg
+            [canSample] => 1
+            [name] => Set Fire to the Rain
+            [isExplicit] => 
+            [artistKey] => r260875
+            [url] => /artist/Vitamin_String_Quartet/album/Vitamin_String_Quartet_Performs_Adele/track/Set_Fire_to_the_Rain/
+            [albumKey] => a782168
+            [artist] => Vitamin String Quartet
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [7] => stdClass Object
+        (
+            [baseIcon] => album/f/f/e/000000000012eeff/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/TK/
+            [duration] => 322
+            [album] => 100 Top Dance (Deluxe Edition)
+            [isClean] => 
+            [albumUrl] => /artist/Various_Artists/album/100_Top_Dance_(Deluxe_Edition)/
+            [shortUrl] => http://rd.io/x/QNP_K5RgRQ
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K5RgRQ
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 66
+            [key] => t14106391
+            [icon] => http://media.rd.io/album/f/f/e/000000000012eeff/square-200.jpg
+            [canSample] => 1
+            [name] => Set Fire to the Rain (A. R. Remix)
+            [isExplicit] => 
+            [artistKey] => r115790
+            [url] => /artist/TK/album/100_Top_Dance_(Deluxe_Edition)/track/Set_Fire_to_the_Rain_(A._R._Remix)/
+            [albumKey] => a1240831
+            [artist] => TK
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [8] => stdClass Object
+        (
+            [baseIcon] => album/9/b/5/00000000000e35b9/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/TK/
+            [duration] => 322
+            [album] => D'Mixmasters, Vol. 1 (California King Bed, Sexy and I Know It, Set Fire to the Rain)
+            [isClean] => 
+            [albumUrl] => /artist/Various_Artists/album/D%27Mixmasters%2C_Vol._1_(California_King_Bed%2C_Sexy_and_I_Know_It%2C_Set_Fire_to_the_Rain)/
+            [shortUrl] => http://rd.io/x/QNP_K-aZXQ
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K-aZXQ
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 3
+            [key] => t10864143
+            [icon] => http://media.rd.io/album/9/b/5/00000000000e35b9/square-200.jpg
+            [canSample] => 1
+            [name] => Set Fire to the Rain (A.R. Remix)
+            [isExplicit] => 
+            [artistKey] => r115790
+            [url] => /artist/TK/album/D%27Mixmasters%2C_Vol._1_(California_King_Bed%2C_Sexy_and_I_Know_It%2C_Set_Fire_to_the_Rain)/track/Set_Fire_to_the_Rain_(A.R._Remix)/
+            [albumKey] => a931257
+            [artist] => TK
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [9] => stdClass Object
+        (
+            [baseIcon] => album/3/e/f/00000000000ecfe3/square-200.jpg
+            [canDownloadAlbumOnly] => 
+            [artistUrl] => /artist/Piano_Tribute_Players/
+            [duration] => 200
+            [album] => Piano Tribute to Adele
+            [isClean] => 
+            [albumUrl] => /artist/Piano_Tribute_Players/album/Piano_Tribute_to_Adele/
+            [shortUrl] => http://rd.io/x/QNP_K-8MIA
+            [albumArtist] => Piano Tribute Players
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K-8MIA
+            [type] => t
+            [price] => None
+            [trackNum] => 2
+            [albumArtistKey] => r955078
+            [key] => t11293554
+            [icon] => http://media.rd.io/album/3/e/f/00000000000ecfe3/square-200.jpg
+            [canSample] => 1
+            [name] => Set Fire To The Rain
+            [isExplicit] => 
+            [artistKey] => r955078
+            [url] => /artist/Piano_Tribute_Players/album/Piano_Tribute_to_Adele/track/Set_Fire_To_The_Rain/
+            [albumKey] => a970723
+            [artist] => Piano Tribute Players
+            [canDownload] => 
+            [length] => 1
+            [canTether] => 1
+        )
+
+)
+Good Feeling
+Array
+(
+    [0] => stdClass Object
+        (
+            [baseIcon] => album/0/0/5/00000000000eb500/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Flo_Rida/
+            [duration] => 247
+            [album] => Good Feeling
+            [isClean] => 
+            [albumUrl] => /artist/Flo_Rida/album/Good_Feeling/
+            [shortUrl] => http://rd.io/x/QNP_K-h-2g
+            [albumArtist] => Flo Rida
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K-h-2g
+            [type] => t
+            [price] => 1.29
+            [trackNum] => 1
+            [albumArtistKey] => r70529
+            [key] => t11215240
+            [icon] => http://media.rd.io/album/0/0/5/00000000000eb500/square-200.jpg
+            [canSample] => 1
+            [name] => Good Feeling
+            [isExplicit] => 
+            [artistKey] => r70529
+            [url] => /artist/Flo_Rida/album/Good_Feeling/track/Good_Feeling/
+            [albumKey] => a963840
+            [artist] => Flo Rida
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [1] => stdClass Object
+        (
+            [baseIcon] => album/2/3/9/0000000000018932/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Michael_Bubl%C3%A9/
+            [duration] => 237
+            [album] => It's Time
+            [isClean] => 
+            [albumUrl] => /artist/Michael_Bubl%C3%A9/album/It%27s_Time_1/
+            [shortUrl] => http://rd.io/x/QNP_K1Hiow
+            [albumArtist] => Michael Bublé
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K1Hiow
+            [type] => t
+            [price] => 1.29
+            [trackNum] => 1
+            [albumArtistKey] => r86421
+            [key] => t1228273
+            [icon] => http://media.rd.io/album/2/3/9/0000000000018932/square-200.jpg
+            [canSample] => 1
+            [name] => Feeling Good
+            [isExplicit] => 
+            [artistKey] => r86421
+            [url] => /artist/Michael_Bubl%C3%A9/album/It%27s_Time_1/track/Feeling_Good/
+            [albumKey] => a100658
+            [artist] => Michael Bublé
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [2] => stdClass Object
+        (
+            [baseIcon] => album/0/c/c/000000000003bcc0/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Nina_Simone/
+            [duration] => 174
+            [album] => The Soul Of Nina Simone
+            [isClean] => 
+            [albumUrl] => /artist/Nina_Simone/album/The_Soul_Of_Nina_Simone/
+            [shortUrl] => http://rd.io/x/QNP_K27YIw
+            [albumArtist] => Nina Simone
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K27YIw
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 1
+            [albumArtistKey] => r1556
+            [key] => t2983793
+            [icon] => http://media.rd.io/album/0/c/c/000000000003bcc0/square-200.jpg
+            [canSample] => 1
+            [name] => Feeling Good
+            [isExplicit] => 
+            [artistKey] => r1556
+            [url] => /artist/Nina_Simone/album/The_Soul_Of_Nina_Simone/track/Feeling_Good/
+            [albumKey] => a244928
+            [artist] => Nina Simone
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [3] => stdClass Object
+        (
+            [baseIcon] => album/d/8/9/000000000001698d/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Muse/
+            [duration] => 198
+            [album] => Origin Of Symmetry
+            [isClean] => 
+            [albumUrl] => /artist/Muse/album/Origin_Of_Symmetry/
+            [shortUrl] => http://rd.io/x/QNP_K1IgNA
+            [albumArtist] => Muse
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K1IgNA
+            [type] => t
+            [price] => 1.29
+            [trackNum] => 8
+            [albumArtistKey] => r39730
+            [key] => t1146726
+            [icon] => http://media.rd.io/album/d/8/9/000000000001698d/square-200.jpg
+            [canSample] => 1
+            [name] => Feeling Good
+            [isExplicit] => 
+            [artistKey] => r39730
+            [url] => /artist/Muse/album/Origin_Of_Symmetry/track/Feeling_Good/
+            [albumKey] => a92557
+            [artist] => Muse
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [4] => stdClass Object
+        (
+            [baseIcon] => album/e/4/f/00000000000a4f4e/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Jennifer_Hudson/
+            [duration] => 136
+            [album] => I Remember Me
+            [isClean] => 
+            [albumUrl] => /artist/Jennifer_Hudson/album/I_Remember_Me/
+            [shortUrl] => http://rd.io/x/QNP_Kzn-ow
+            [albumArtist] => Jennifer Hudson
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_Kzn-ow
+            [type] => t
+            [price] => 1.29
+            [trackNum] => 11
+            [albumArtistKey] => r282278
+            [key] => t8036849
+            [icon] => http://media.rd.io/album/e/4/f/00000000000a4f4e/square-200.jpg
+            [canSample] => 1
+            [name] => Feeling Good
+            [isExplicit] => 
+            [artistKey] => r282278
+            [url] => /artist/Jennifer_Hudson/album/I_Remember_Me/track/Feeling_Good/
+            [albumKey] => a675662
+            [artist] => Jennifer Hudson
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [5] => stdClass Object
+        (
+            [baseIcon] => album/b/e/a/0000000000095aeb/square-200.jpg
+            [canDownloadAlbumOnly] => 
+            [artistUrl] => /artist/My_Brightest_Diamond/
+            [duration] => 233
+            [album] => Dark Was The Night (Red Hot Compilation)
+            [isClean] => 
+            [albumUrl] => /artist/Various_Artists/album/Dark_Was_The_Night_(Red_Hot_Compilation)/
+            [shortUrl] => http://rd.io/x/QNP_KzNhEA
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_KzNhEA
+            [type] => t
+            [price] => None
+            [trackNum] => 8
+            [key] => t7355970
+            [icon] => http://media.rd.io/album/b/e/a/0000000000095aeb/square-200.jpg
+            [canSample] => 1
+            [name] => Feeling Good
+            [isExplicit] => 
+            [artistKey] => r16061
+            [url] => /artist/My_Brightest_Diamond/album/Dark_Was_The_Night_(Red_Hot_Compilation)/track/Feeling_Good/
+            [albumKey] => a613099
+            [artist] => My Brightest Diamond
+            [canDownload] => 
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [6] => stdClass Object
+        (
+            [baseIcon] => album/1/9/d/0000000000019d91/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Violent_Femmes/
+            [duration] => 232
+            [album] => Violent Femmes
+            [isClean] => 
+            [albumUrl] => /artist/Violent_Femmes/album/Violent_Femmes/
+            [shortUrl] => http://rd.io/x/QNP_K1DTyg
+            [albumArtist] => Violent Femmes
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K1DTyg
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 10
+            [albumArtistKey] => r85689
+            [key] => t1281176
+            [icon] => http://media.rd.io/album/1/9/d/0000000000019d91/square-200.jpg
+            [canSample] => 1
+            [name] => Good Feeling
+            [isExplicit] => 
+            [artistKey] => r85689
+            [url] => /artist/Violent_Femmes/album/Violent_Femmes/track/Good_Feeling/
+            [albumKey] => a105873
+            [artist] => Violent Femmes
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [7] => stdClass Object
+        (
+            [baseIcon] => album/4/d/8/00000000000938d4/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Jennifer_Hudson/
+            [duration] => 136
+            [album] => Feeling Good
+            [isClean] => 
+            [albumUrl] => /artist/Jennifer_Hudson/album/Feeling_Good/
+            [shortUrl] => http://rd.io/x/QNP_Ky3QAw
+            [albumArtist] => Jennifer Hudson
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_Ky3QAw
+            [type] => t
+            [price] => 1.29
+            [trackNum] => 1
+            [albumArtistKey] => r282278
+            [key] => t7245649
+            [icon] => http://media.rd.io/album/4/d/8/00000000000938d4/square-200.jpg
+            [canSample] => 1
+            [name] => Feeling Good
+            [isExplicit] => 
+            [artistKey] => r282278
+            [url] => /artist/Jennifer_Hudson/album/Feeling_Good/track/Feeling_Good/
+            [albumKey] => a604372
+            [artist] => Jennifer Hudson
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [8] => stdClass Object
+        (
+            [baseIcon] => album/7/f/0/000000000003a0f7/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Escala/
+            [duration] => 240
+            [album] => Escala
+            [isClean] => 
+            [albumUrl] => /artist/Escala/album/Escala/
+            [shortUrl] => http://rd.io/x/QNP_K29RiQ
+            [albumArtist] => Escala
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K29RiQ
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 8
+            [albumArtistKey] => r326799
+            [key] => t2887387
+            [icon] => http://media.rd.io/album/7/f/0/000000000003a0f7/square-200.jpg
+            [canSample] => 1
+            [name] => Feeling Good
+            [isExplicit] => 
+            [artistKey] => r326799
+            [url] => /artist/Escala/album/Escala/track/Feeling_Good/
+            [albumKey] => a237815
+            [artist] => Escala
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [9] => stdClass Object
+        (
+            [baseIcon] => album/2/5/3/000000000003d352/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Light_Pollution/
+            [duration] => 298
+            [album] => Apparitions
+            [isClean] => 
+            [albumUrl] => /artist/Light_Pollution/album/Apparitions/
+            [shortUrl] => http://rd.io/x/QNP_K22UGw
+            [albumArtist] => Light Pollution
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K22UGw
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 1
+            [albumArtistKey] => r334913
+            [key] => t3066697
+            [icon] => http://media.rd.io/album/2/5/3/000000000003d352/square-200.jpg
+            [canSample] => 1
+            [name] => Good Feelings
+            [isExplicit] => 
+            [artistKey] => r334913
+            [url] => /artist/Light_Pollution/album/Apparitions/track/Good_Feelings/
+            [albumKey] => a250706
+            [artist] => Light Pollution
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+)
+Domino
+Array
+(
+    [0] => stdClass Object
+        (
+            [baseIcon] => album/4/1/0/00000000000ea014/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Jessie_J/
+            [duration] => 231
+            [album] => Domino
+            [isClean] => 
+            [albumUrl] => /artist/Jessie_J/album/Domino/
+            [shortUrl] => http://rd.io/x/QNP_K-kY4A
+            [albumArtist] => Jessie J
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K-kY4A
+            [type] => t
+            [price] => 1.29
+            [trackNum] => 1
+            [albumArtistKey] => r714131
+            [key] => t11159474
+            [icon] => http://media.rd.io/album/4/1/0/00000000000ea014/square-200.jpg
+            [canSample] => 1
+            [name] => Domino
+            [isExplicit] => 
+            [artistKey] => r714131
+            [url] => /artist/Jessie_J/album/Domino/track/Domino/
+            [albumKey] => a958484
+            [artist] => Jessie J
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [1] => stdClass Object
+        (
+            [baseIcon] => album/3/d/d/0000000000095dd3/square-200.jpg
+            [canDownloadAlbumOnly] => 
+            [artistUrl] => /artist/The_Big_Pink/
+            [duration] => 226
+            [album] => A Brief History Of Love
+            [isClean] => 
+            [albumUrl] => /artist/The_Big_Pink/album/A_Brief_History_Of_Love/
+            [shortUrl] => http://rd.io/x/QNP_KzM9Bw
+            [albumArtist] => The Big Pink
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_KzM9Bw
+            [type] => t
+            [price] => None
+            [trackNum] => 3
+            [albumArtistKey] => r370183
+            [key] => t7365205
+            [icon] => http://media.rd.io/album/3/d/d/0000000000095dd3/square-200.jpg
+            [canSample] => 1
+            [name] => Dominos
+            [isExplicit] => 
+            [artistKey] => r370183
+            [url] => /artist/The_Big_Pink/album/A_Brief_History_Of_Love/track/Dominos/
+            [albumKey] => a613843
+            [artist] => The Big Pink
+            [canDownload] => 
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [2] => stdClass Object
+        (
+            [baseIcon] => album/4/0/0/000000000003a004/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Fats_Domino/
+            [duration] => 98
+            [album] => Blueberry Hill (Performed live on The Ed Sullivan Show/1956)
+            [isClean] => 
+            [albumUrl] => /artist/Fats_Domino/album/Blueberry_Hill_(Performed_live_on_The_Ed_Sullivan_Show/1956)/
+            [shortUrl] => http://rd.io/x/QNP_K29epw
+            [albumArtist] => Fats Domino
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K29epw
+            [type] => t
+            [price] => 1.00
+            [trackNum] => 1
+            [albumArtistKey] => r591
+            [key] => t2884085
+            [icon] => http://media.rd.io/album/4/0/0/000000000003a004/square-200.jpg
+            [canSample] => 1
+            [name] => Blueberry Hill (Performed live on The Ed Sullivan Show 11/18/56)
+            [isExplicit] => 
+            [artistKey] => r591
+            [url] => /artist/Fats_Domino/album/Blueberry_Hill_(Performed_live_on_The_Ed_Sullivan_Show/1956)/track/Blueberry_Hill_(Performed_live_on_The_Ed_Sullivan_Show_11/18/56)/
+            [albumKey] => a237572
+            [artist] => Fats Domino
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [3] => stdClass Object
+        (
+            [baseIcon] => album/0/5/a/0000000000036a50/square-200.jpg
+            [canDownloadAlbumOnly] => 
+            [artistUrl] => /artist/Van_Morrison/
+            [duration] => 188
+            [album] => Still On Top - The Greatest Hits
+            [isClean] => 
+            [albumUrl] => /artist/Van_Morrison/album/Still_On_Top_-_The_Greatest_Hits/
+            [shortUrl] => http://rd.io/x/QNP_K2oOEQ
+            [albumArtist] => Van Morrison
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K2oOEQ
+            [type] => t
+            [price] => None
+            [trackNum] => 6
+            [albumArtistKey] => r15770
+            [key] => t2707779
+            [icon] => http://media.rd.io/album/0/5/a/0000000000036a50/square-200.jpg
+            [canSample] => 1
+            [name] => Domino
+            [isExplicit] => 
+            [artistKey] => r15770
+            [url] => /artist/Van_Morrison/album/Still_On_Top_-_The_Greatest_Hits/track/Domino/
+            [albumKey] => a223824
+            [artist] => Van Morrison
+            [canDownload] => 
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [4] => stdClass Object
+        (
+            [baseIcon] => album/6/5/d/0000000000038d56/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/The_Avalanches/
+            [duration] => 339
+            [album] => Since I Left You
+            [isClean] => 
+            [albumUrl] => /artist/The_Avalanches/album/Since_I_Left_You/
+            [shortUrl] => http://rd.io/x/QNP_K2hE4w
+            [albumArtist] => The Avalanches
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K2hE4w
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 17
+            [albumArtistKey] => r143220
+            [key] => t2825137
+            [icon] => http://media.rd.io/album/6/5/d/0000000000038d56/square-200.jpg
+            [canSample] => 1
+            [name] => Live At Dominoes
+            [isExplicit] => 
+            [artistKey] => r143220
+            [url] => /artist/The_Avalanches/album/Since_I_Left_You/track/Live_At_Dominoes/
+            [albumKey] => a232790
+            [artist] => The Avalanches
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [5] => stdClass Object
+        (
+            [baseIcon] => album/8/2/b/00000000000ccb28/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/The_Features/
+            [duration] => 273
+            [album] => Wilderness
+            [isClean] => 
+            [albumUrl] => /artist/The_Features/album/Wilderness/
+            [shortUrl] => http://rd.io/x/QNP_K9UHMg
+            [albumArtist] => The Features
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K9UHMg
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 9
+            [albumArtistKey] => r77222
+            [key] => t9853024
+            [icon] => http://media.rd.io/album/8/2/b/00000000000ccb28/square-200.jpg
+            [canSample] => 1
+            [name] => Fats Domino
+            [isExplicit] => 
+            [artistKey] => r77222
+            [url] => /artist/The_Features/album/Wilderness/track/Fats_Domino/
+            [albumKey] => a838440
+            [artist] => The Features
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [6] => stdClass Object
+        (
+            [baseIcon] => album/6/b/7/00000000000047b6/square-200.jpg
+            [canDownloadAlbumOnly] => 
+            [artistUrl] => /artist/Fats_Domino/
+            [duration] => 144
+            [album] => The Best Of Fats Domino
+            [isClean] => 
+            [albumUrl] => /artist/Fats_Domino/album/The_Best_Of_Fats_Domino/
+            [shortUrl] => http://rd.io/x/QNP_K0AoRQ
+            [albumArtist] => Fats Domino
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K0AoRQ
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 1
+            [albumArtistKey] => r591
+            [key] => t227095
+            [icon] => http://media.rd.io/album/6/b/7/00000000000047b6/square-200.jpg
+            [canSample] => 1
+            [name] => Ain't That A Shame
+            [isExplicit] => 
+            [artistKey] => r591
+            [url] => /artist/Fats_Domino/album/The_Best_Of_Fats_Domino/track/Ain%27t_That_A_Shame/
+            [albumKey] => a18358
+            [artist] => Fats Domino
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [7] => stdClass Object
+        (
+            [baseIcon] => album/d/3/c/00000000000c7c3d/square-200.jpg
+            [canDownloadAlbumOnly] => 
+            [artistUrl] => /artist/Sondre_Lerche/
+            [duration] => 210
+            [album] => Sondre Lerche
+            [isClean] => 
+            [albumUrl] => /artist/Sondre_Lerche/album/Sondre_Lerche/
+            [shortUrl] => http://rd.io/x/QNP_K9HqOA
+            [albumArtist] => Sondre Lerche
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K9HqOA
+            [type] => t
+            [price] => None
+            [trackNum] => 7
+            [albumArtistKey] => r188245
+            [key] => t9614698
+            [icon] => http://media.rd.io/album/d/3/c/00000000000c7c3d/square-200.jpg
+            [canSample] => 1
+            [name] => Domino
+            [isExplicit] => 
+            [artistKey] => r188245
+            [url] => /artist/Sondre_Lerche/album/Sondre_Lerche/track/Domino/
+            [albumKey] => a818237
+            [artist] => Sondre Lerche
+            [canDownload] => 
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [8] => stdClass Object
+        (
+            [baseIcon] => album/e/8/a/0000000000030a8e/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Fats_Domino/
+            [duration] => 156
+            [album] => Greatest Hits: Walking To New Orleans
+            [isClean] => 
+            [albumUrl] => /artist/Fats_Domino/album/Greatest_Hits_Walking_To_New_Orleans/
+            [shortUrl] => http://rd.io/x/QNP_K2fFRA
+            [albumArtist] => Fats Domino
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K2fFRA
+            [type] => t
+            [price] => 1.29
+            [trackNum] => 1
+            [albumArtistKey] => r591
+            [key] => t2398742
+            [icon] => http://media.rd.io/album/e/8/a/0000000000030a8e/square-200.jpg
+            [canSample] => 1
+            [name] => The Fat Man
+            [isExplicit] => 
+            [artistKey] => r591
+            [url] => /artist/Fats_Domino/album/Greatest_Hits_Walking_To_New_Orleans/track/The_Fat_Man/
+            [albumKey] => a199310
+            [artist] => Fats Domino
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [9] => stdClass Object
+        (
+            [baseIcon] => album/8/5/c/0000000000028c58/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Pet_Shop_Boys/
+            [duration] => 257
+            [album] => PopArt: The Hits
+            [isClean] => 
+            [albumUrl] => /artist/Pet_Shop_Boys/album/PopArt%3A_The_Hits/
+            [shortUrl] => http://rd.io/x/QNP_K138BA
+            [albumArtist] => Pet Shop Boys
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K138BA
+            [type] => t
+            [price] => 1.29
+            [trackNum] => 12
+            [albumArtistKey] => r25787
+            [key] => t2007894
+            [icon] => http://media.rd.io/album/8/5/c/0000000000028c58/square-200.jpg
+            [canSample] => 1
+            [name] => Domino Dancing (2003 - Remaster)
+            [isExplicit] => 
+            [artistKey] => r25787
+            [url] => /artist/Pet_Shop_Boys/album/PopArt%3A_The_Hits/track/Domino_Dancing_(2003_-_Remaster)/
+            [albumKey] => a167000
+            [artist] => Pet Shop Boys
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+)
+We Found Love 
+Array
+(
+    [0] => stdClass Object
+        (
+            [baseIcon] => album/b/b/9/00000000000fc9bb/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Rihanna/
+            [duration] => 215
+            [album] => We Found Love
+            [isClean] => 
+            [albumUrl] => /artist/Rihanna/album/We_Found_Love/
+            [shortUrl] => http://rd.io/x/QNP_K_VJyg
+            [albumArtist] => Rihanna
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K_VJyg
+            [type] => t
+            [price] => 1.29
+            [trackNum] => 1
+            [albumArtistKey] => r93801
+            [key] => t11933336
+            [icon] => http://media.rd.io/album/b/b/9/00000000000fc9bb/square-200.jpg
+            [canSample] => 1
+            [name] => We Found Love
+            [isExplicit] => 
+            [artistKey] => r93801
+            [url] => /artist/Rihanna/album/We_Found_Love/track/We_Found_Love/
+            [albumKey] => a1034683
+            [artist] => Rihanna
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [1] => stdClass Object
+        (
+            [baseIcon] => album/5/6/2/0000000000117265/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Rihanna/
+            [duration] => 215
+            [album] => Talk That Talk (Deluxe Edition)
+            [isClean] => 
+            [albumUrl] => /artist/Rihanna/album/Talk_That_Talk_(Deluxe_Edition)/
+            [shortUrl] => http://rd.io/x/QNP_K4tDjw
+            [albumArtist] => Rihanna
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K4tDjw
+            [type] => t
+            [price] => 1.29
+            [trackNum] => 3
+            [albumArtistKey] => r93801
+            [key] => t13114589
+            [icon] => http://media.rd.io/album/5/6/2/0000000000117265/square-200.jpg
+            [canSample] => 1
+            [name] => We Found Love
+            [isExplicit] => 
+            [artistKey] => r93801
+            [url] => /artist/Rihanna/album/Talk_That_Talk_(Deluxe_Edition)/track/We_Found_Love/
+            [albumKey] => a1143397
+            [artist] => Rihanna
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [2] => stdClass Object
+        (
+            [baseIcon] => album/3/2/a/00000000000fca23/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Rihanna_Cover_Band/
+            [duration] => 213
+            [album] => We Found Love (feat. Calvin Harris)
+            [isClean] => 
+            [albumUrl] => /artist/Rihanna_Cover_Band/album/We_Found_Love_(feat._Calvin_Harris)/
+            [shortUrl] => http://rd.io/x/QNP_K_VH8Q
+            [albumArtist] => Rihanna Cover Band
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K_VH8Q
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 1
+            [albumArtistKey] => r1383944
+            [key] => t11933859
+            [icon] => http://media.rd.io/album/3/2/a/00000000000fca23/square-200.jpg
+            [canSample] => 1
+            [name] => We Found Love (feat. Calvin Harris)
+            [isExplicit] => 
+            [artistKey] => r1383944
+            [url] => /artist/Rihanna_Cover_Band/album/We_Found_Love_(feat._Calvin_Harris)/track/We_Found_Love_(feat._Calvin_Harris)/
+            [albumKey] => a1034787
+            [artist] => Rihanna Cover Band
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [3] => stdClass Object
+        (
+            [baseIcon] => album/f/3/1/000000000011413f/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Rihanna/
+            [duration] => 215
+            [album] => Talk That Talk
+            [isClean] => 
+            [albumUrl] => /artist/Rihanna/album/Talk_That_Talk/
+            [shortUrl] => http://rd.io/x/QNP_K4a0PA
+            [albumArtist] => Rihanna
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K4a0PA
+            [type] => t
+            [price] => 1.29
+            [trackNum] => 3
+            [albumArtistKey] => r93801
+            [key] => t12970862
+            [icon] => http://media.rd.io/album/f/3/1/000000000011413f/square-200.jpg
+            [canSample] => 1
+            [name] => We Found Love
+            [isExplicit] => 
+            [artistKey] => r93801
+            [url] => /artist/Rihanna/album/Talk_That_Talk/track/We_Found_Love/
+            [albumKey] => a1130815
+            [artist] => Rihanna
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [4] => stdClass Object
+        (
+            [baseIcon] => album/f/f/e/000000000012eeff/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Hanna/
+            [duration] => 271
+            [album] => 100 Top Dance (Deluxe Edition)
+            [isClean] => 
+            [albumUrl] => /artist/Various_Artists/album/100_Top_Dance_(Deluxe_Edition)/
+            [shortUrl] => http://rd.io/x/QNP_K5RqSw
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K5RqSw
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 1
+            [key] => t14103833
+            [icon] => http://media.rd.io/album/f/f/e/000000000012eeff/square-200.jpg
+            [canSample] => 1
+            [name] => We Found Love (A.R. Remix)
+            [isExplicit] => 
+            [artistKey] => r80449
+            [url] => /artist/Hanna/album/100_Top_Dance_(Deluxe_Edition)/track/We_Found_Love_(A.R._Remix)/
+            [albumKey] => a1240831
+            [artist] => Hanna
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [5] => stdClass Object
+        (
+            [baseIcon] => album/8/2/a/0000000000041a28/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Heavy_D__The_Boyz/
+            [duration] => 258
+            [album] => Peaceful Journey
+            [isClean] => 
+            [albumUrl] => /artist/Heavy_D__The_Boyz/album/Peaceful_Journey/
+            [shortUrl] => http://rd.io/x/QNP_K3EdMA
+            [albumArtist] => Heavy D & The Boyz
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K3EdMA
+            [type] => t
+            [price] => 1.29
+            [trackNum] => 1
+            [albumArtistKey] => r298459
+            [key] => t3293794
+            [icon] => http://media.rd.io/album/8/2/a/0000000000041a28/square-200.jpg
+            [canSample] => 1
+            [name] => Now That We Found Love
+            [isExplicit] => 
+            [artistKey] => r298459
+            [url] => /artist/Heavy_D__The_Boyz/album/Peaceful_Journey/track/Now_That_We_Found_Love/
+            [albumKey] => a268840
+            [artist] => Heavy D & The Boyz
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [6] => stdClass Object
+        (
+            [baseIcon] => album/4/d/0/00000000001060d4/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/In_A_Hopeless_Place/
+            [duration] => 215
+            [album] => We Found Love (In A Hopeless Place)
+            [isClean] => 
+            [albumUrl] => /artist/In_A_Hopeless_Place/album/We_Found_Love_(In_A_Hopeless_Place)/
+            [shortUrl] => http://rd.io/x/QNP_K_iFZw
+            [albumArtist] => In A Hopeless Place
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K_iFZw
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 1
+            [albumArtistKey] => r1431962
+            [key] => t12311093
+            [icon] => http://media.rd.io/album/4/d/0/00000000001060d4/square-200.jpg
+            [canSample] => 1
+            [name] => We Found Love
+            [isExplicit] => 
+            [artistKey] => r1431962
+            [url] => /artist/In_A_Hopeless_Place/album/We_Found_Love_(In_A_Hopeless_Place)/track/We_Found_Love/
+            [albumKey] => a1073364
+            [artist] => In A Hopeless Place
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [7] => stdClass Object
+        (
+            [baseIcon] => album/4/2/a/0000000000115a24/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Rihanna/
+            [duration] => 357
+            [album] => We Found Love (The Remixes)
+            [isClean] => 
+            [albumUrl] => /artist/Rihanna/album/We_Found_Love_(The_Remixes)_1/
+            [shortUrl] => http://rd.io/x/QNP_K4ReAQ
+            [albumArtist] => Rihanna
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K4ReAQ
+            [type] => t
+            [price] => 1.29
+            [trackNum] => 1
+            [albumArtistKey] => r93801
+            [key] => t13042003
+            [icon] => http://media.rd.io/album/4/2/a/0000000000115a24/square-200.jpg
+            [canSample] => 1
+            [name] => We Found Love (Chuckie Extended Remix)
+            [isExplicit] => 
+            [artistKey] => r93801
+            [url] => /artist/Rihanna/album/We_Found_Love_(The_Remixes)_1/track/We_Found_Love_(Chuckie_Extended_Remix)/
+            [albumKey] => a1137188
+            [artist] => Rihanna
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [8] => stdClass Object
+        (
+            [baseIcon] => album/4/6/2/0000000000117264/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Rihanna/
+            [duration] => 215
+            [album] => Talk That Talk (Deluxe Edition)
+            [isClean] => 
+            [albumUrl] => /artist/Rihanna/album/Talk_That_Talk_(Deluxe_Edition)_1/
+            [shortUrl] => http://rd.io/x/QNP_K4tDiQ
+            [albumArtist] => Rihanna
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K4tDiQ
+            [type] => t
+            [price] => 1.29
+            [trackNum] => 3
+            [albumArtistKey] => r93801
+            [key] => t13114587
+            [icon] => http://media.rd.io/album/4/6/2/0000000000117264/square-200.jpg
+            [canSample] => 1
+            [name] => We Found Love
+            [isExplicit] => 
+            [artistKey] => r93801
+            [url] => /artist/Rihanna/album/Talk_That_Talk_(Deluxe_Edition)_1/track/We_Found_Love/
+            [albumKey] => a1143396
+            [artist] => Rihanna
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [9] => stdClass Object
+        (
+            [baseIcon] => album/c/6/9/000000000003996c/square-200.jpg
+            [canDownloadAlbumOnly] => 
+            [artistUrl] => /artist/Heavy_D__The_Boyz/
+            [duration] => 257
+            [album] => Heavy Hitz (Remastered)
+            [isClean] => 
+            [albumUrl] => /artist/Heavy_D__The_Boyz/album/Heavy_Hitz_(Remastered)/
+            [shortUrl] => http://rd.io/x/QNP_K2jwMw
+            [albumArtist] => Heavy D & The Boyz
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K2jwMw
+            [type] => t
+            [price] => None
+            [trackNum] => 7
+            [albumArtistKey] => r298459
+            [key] => t2862945
+            [icon] => http://media.rd.io/album/c/6/9/000000000003996c/square-200.jpg
+            [canSample] => 1
+            [name] => Now That We Found Love
+            [isExplicit] => 
+            [artistKey] => r298459
+            [url] => /artist/Heavy_D__The_Boyz/album/Heavy_Hitz_(Remastered)/track/Now_That_We_Found_Love/
+            [albumKey] => a235884
+            [artist] => Heavy D & The Boyz
+            [canDownload] => 
+            [length] => 1
+            [canTether] => 1
+        )
+
+)
+International Love 
+Array
+(
+    [0] => stdClass Object
+        (
+            [baseIcon] => album/7/b/7/00000000000c97b7/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Pitbull/
+            [duration] => 227
+            [album] => Planet Pit
+            [isClean] => 
+            [albumUrl] => /artist/Pitbull/album/Planet_Pit/
+            [shortUrl] => http://rd.io/x/QNP_K9CPmw
+            [albumArtist] => Pitbull
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K9CPmw
+            [type] => t
+            [price] => 1.29
+            [trackNum] => 8
+            [albumArtistKey] => r7841
+            [key] => t9687241
+            [icon] => http://media.rd.io/album/7/b/7/00000000000c97b7/square-200.jpg
+            [canSample] => 1
+            [name] => International Love
+            [isExplicit] => 
+            [artistKey] => r7841
+            [url] => /artist/Pitbull/album/Planet_Pit/track/International_Love/
+            [albumKey] => a825271
+            [artist] => Pitbull
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [1] => stdClass Object
+        (
+            [baseIcon] => album/9/0/5/0000000000121509/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Amy_Winehouse/
+            [duration] => 262
+            [album] => Lioness: Hidden Treasures (International Version)
+            [isClean] => 
+            [albumUrl] => /artist/Amy_Winehouse/album/Lioness_Hidden_Treasures_(International_Version)/
+            [shortUrl] => http://rd.io/x/QNP_K4x0_Q
+            [albumArtist] => Amy Winehouse
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K4x0_Q
+            [type] => t
+            [price] => 1.29
+            [trackNum] => 4
+            [albumArtistKey] => r139977
+            [key] => t13577135
+            [icon] => http://media.rd.io/album/9/0/5/0000000000121509/square-200.jpg
+            [canSample] => 1
+            [name] => Will You Still Love Me Tomorrow? (2011)
+            [isExplicit] => 
+            [artistKey] => r139977
+            [url] => /artist/Amy_Winehouse/album/Lioness_Hidden_Treasures_(International_Version)/track/Will_You_Still_Love_Me_Tomorrow_(2011)/
+            [albumKey] => a1185033
+            [artist] => Amy Winehouse
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [2] => stdClass Object
+        (
+            [baseIcon] => album/4/9/c/0000000000039c94/square-200.jpg
+            [canDownloadAlbumOnly] => 
+            [artistUrl] => /artist/Frou_Frou/
+            [duration] => 279
+            [album] => Details (International Version)
+            [isClean] => 
+            [albumUrl] => /artist/Frou_Frou/album/Details_(International_Version)/
+            [shortUrl] => http://rd.io/x/QNP_K2iGhA
+            [albumArtist] => Frou Frou
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K2iGhA
+            [type] => t
+            [price] => None
+            [trackNum] => 3
+            [albumArtistKey] => r315389
+            [key] => t2873814
+            [icon] => http://media.rd.io/album/4/9/c/0000000000039c94/square-200.jpg
+            [canSample] => 1
+            [name] => It's Good To Be In Love
+            [isExplicit] => 
+            [artistKey] => r315389
+            [url] => /artist/Frou_Frou/album/Details_(International_Version)/track/It%27s_Good_To_Be_In_Love/
+            [albumKey] => a236692
+            [artist] => Frou Frou
+            [canDownload] => 
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [3] => stdClass Object
+        (
+            [baseIcon] => album/b/1/d/0000000000017d1b/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Prince/
+            [duration] => 397
+            [album] => 1999
+            [isClean] => 
+            [albumUrl] => /artist/Prince/album/1999/
+            [shortUrl] => http://rd.io/x/QNP_K1Ea8A
+            [albumArtist] => Prince
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K1Ea8A
+            [type] => t
+            [price] => 0.99
+            [trackNum] => 11
+            [albumArtistKey] => r34850
+            [key] => t1197474
+            [icon] => http://media.rd.io/album/b/1/d/0000000000017d1b/square-200.jpg
+            [canSample] => 1
+            [name] => International Lover
+            [isExplicit] => 
+            [artistKey] => r34850
+            [url] => /artist/Prince/album/1999/track/International_Lover/
+            [albumKey] => a97563
+            [artist] => Prince
+            [canDownload] => 1
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [4] => stdClass Object
+        (
+            [baseIcon] => album/f/b/b/0000000000039bbf/square-200.jpg
+            [canDownloadAlbumOnly] => 
+            [artistUrl] => /artist/Lionel_Richie/
+            [duration] => 266
+            [album] => The Definitive Collection (International Version)
+            [isClean] => 
+            [albumUrl] => /artist/Lionel_Richie/album/The_Definitive_Collection_(International_Version)/
+            [shortUrl] => http://rd.io/x/QNP_K2iQoA
+            [albumArtist] => Lionel Richie
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K2iQoA
+            [type] => t
+            [price] => None
+            [trackNum] => 8
+            [albumArtistKey] => r25366
+            [key] => t2871282
+            [icon] => http://media.rd.io/album/f/b/b/0000000000039bbf/square-200.jpg
+            [canSample] => 1
+            [name] => Endless Love (Endless Love/Soundtrack Version)
+            [isExplicit] => 
+            [artistKey] => r25366
+            [url] => /artist/Lionel_Richie/album/The_Definitive_Collection_(International_Version)/track/Endless_Love_(Endless_Love/Soundtrack_Version)/
+            [albumKey] => a236479
+            [artist] => Lionel Richie
+            [canDownload] => 
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [5] => stdClass Object
+        (
+            [baseIcon] => album/4/9/c/0000000000039c94/square-200.jpg
+            [canDownloadAlbumOnly] => 
+            [artistUrl] => /artist/Frou_Frou/
+            [duration] => 284
+            [album] => Details (International Version)
+            [isClean] => 
+            [albumUrl] => /artist/Frou_Frou/album/Details_(International_Version)/
+            [shortUrl] => http://rd.io/x/QNP_K2iFkQ
+            [albumArtist] => Frou Frou
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K2iFkQ
+            [type] => t
+            [price] => None
+            [trackNum] => 11
+            [albumArtistKey] => r315389
+            [key] => t2874051
+            [icon] => http://media.rd.io/album/4/9/c/0000000000039c94/square-200.jpg
+            [canSample] => 1
+            [name] => The Dumbing Down Of Love
+            [isExplicit] => 
+            [artistKey] => r315389
+            [url] => /artist/Frou_Frou/album/Details_(International_Version)/track/The_Dumbing_Down_Of_Love/
+            [albumKey] => a236692
+            [artist] => Frou Frou
+            [canDownload] => 
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [6] => stdClass Object
+        (
+            [baseIcon] => album/f/b/b/0000000000039bbf/square-200.jpg
+            [canDownloadAlbumOnly] => 
+            [artistUrl] => /artist/Lionel_Richie/
+            [duration] => 226
+            [album] => The Definitive Collection (International Version)
+            [isClean] => 
+            [albumUrl] => /artist/Lionel_Richie/album/The_Definitive_Collection_(International_Version)/
+            [shortUrl] => http://rd.io/x/QNP_K2iPdw
+            [albumArtist] => Lionel Richie
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K2iPdw
+            [type] => t
+            [price] => None
+            [trackNum] => 10
+            [albumArtistKey] => r25366
+            [key] => t2871333
+            [icon] => http://media.rd.io/album/f/b/b/0000000000039bbf/square-200.jpg
+            [canSample] => 1
+            [name] => Penny Lover
+            [isExplicit] => 
+            [artistKey] => r25366
+            [url] => /artist/Lionel_Richie/album/The_Definitive_Collection_(International_Version)/track/Penny_Lover/
+            [albumKey] => a236479
+            [artist] => Lionel Richie
+            [canDownload] => 
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [7] => stdClass Object
+        (
+            [baseIcon] => album/d/b/9/00000000000399bd/square-200.jpg
+            [canDownloadAlbumOnly] => 
+            [artistUrl] => /artist/Soft_Cell/
+            [duration] => 160
+            [album] => The Very Best Of Soft Cell (International Version (Excluding UK & Eire))
+            [isClean] => 
+            [albumUrl] => /artist/Soft_Cell/album/The_Very_Best_Of_Soft_Cell_(International_Version_(Excluding_UK__Eire))/
+            [shortUrl] => http://rd.io/x/QNP_K2jsaw
+            [albumArtist] => Soft Cell
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K2jsaw
+            [type] => t
+            [price] => None
+            [trackNum] => 2
+            [albumArtistKey] => r147723
+            [key] => t2863929
+            [icon] => http://media.rd.io/album/d/b/9/00000000000399bd/square-200.jpg
+            [canSample] => 1
+            [name] => Tainted Love
+            [isExplicit] => 
+            [artistKey] => r147723
+            [url] => /artist/Soft_Cell/album/The_Very_Best_Of_Soft_Cell_(International_Version_(Excluding_UK__Eire))/track/Tainted_Love/
+            [albumKey] => a235965
+            [artist] => Soft Cell
+            [canDownload] => 
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [8] => stdClass Object
+        (
+            [baseIcon] => album/8/d/8/00000000000198d8/square-200.jpg
+            [canDownloadAlbumOnly] => 1
+            [artistUrl] => /artist/Kid_Rock/
+            [duration] => 340
+            [album] => Rock N Roll Jesus (Explicit International)
+            [isClean] => 
+            [albumUrl] => /artist/Kid_Rock/album/Rock_N_Roll_Jesus_(Explicit_International)/
+            [shortUrl] => http://rd.io/x/QNP_K1ADpA
+            [albumArtist] => Kid Rock
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K1ADpA
+            [type] => t
+            [price] => None
+            [trackNum] => 7
+            [albumArtistKey] => r67999
+            [key] => t1268982
+            [icon] => http://media.rd.io/album/8/d/8/00000000000198d8/square-200.jpg
+            [canSample] => 1
+            [name] => When U Love Someone
+            [isExplicit] => 
+            [artistKey] => r67999
+            [url] => /artist/Kid_Rock/album/Rock_N_Roll_Jesus_(Explicit_International)/track/When_U_Love_Someone/
+            [albumKey] => a104664
+            [artist] => Kid Rock
+            [canDownload] => 
+            [length] => 1
+            [canTether] => 1
+        )
+
+    [9] => stdClass Object
+        (
+            [baseIcon] => album/d/b/9/00000000000399bd/square-200.jpg
+            [canDownloadAlbumOnly] => 
+            [artistUrl] => /artist/Soft_Cell/
+            [duration] => 189
+            [album] => The Very Best Of Soft Cell (International Version (Excluding UK & Eire))
+            [isClean] => 
+            [albumUrl] => /artist/Soft_Cell/album/The_Very_Best_Of_Soft_Cell_(International_Version_(Excluding_UK__Eire))/
+            [shortUrl] => http://rd.io/x/QNP_K2jsHw
+            [albumArtist] => Soft Cell
+            [canStream] => 1
+            [embedUrl] => http://rd.io/e/QNP_K2jsHw
+            [type] => t
+            [price] => None
+            [trackNum] => 3
+            [albumArtistKey] => r147723
+            [key] => t2863949
+            [icon] => http://media.rd.io/album/d/b/9/00000000000399bd/square-200.jpg
+            [canSample] => 1
+            [name] => Where Did Our Love Go? (Original / 7" Single Version)
+            [isExplicit] => 
+            [artistKey] => r147723
+            [url] => /artist/Soft_Cell/album/The_Very_Best_Of_Soft_Cell_(International_Version_(Excluding_UK__Eire))/track/Where_Did_Our_Love_Go_(Original_/_7%22_Single_Version)/
+            [albumKey] => a235965
+            [artist] => Soft Cell
+            [canDownload] => 
+            [length] => 1
+            [canTether] => 1
+        )
+
+)
+Sexy and I Know It

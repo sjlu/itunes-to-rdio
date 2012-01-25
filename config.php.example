@@ -1,0 +1,4 @@
+<?php
+define('RDIO_KEY', '');
+define('RDIO_SECRET', '');
+?>
