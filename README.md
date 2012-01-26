@@ -3,6 +3,16 @@ Introduction
 
 I use Rdio a lot and I saw a lot of playlists like "iTunes Top 100" or anything related to iTunes, where people put this stuff in manually. Why not just automate this process?
 
+### Playlists using this script
+
+- [iTunes Top 100 (US)](http://www.rdio.com/#/people/sluzorz/playlists/526420/iTunes_Top_100)
+- [iTunes Top 100 - Hip-Hop/Rap (US)] (http://www.rdio.com/#/people/sluzorz/playlists/526666/iTunes_Top_100_-_Hip-Hop/Rap_)
+- [iTunes Top 100 - Pop (US)](http://www.rdio.com/#/people/sluzorz/playlists/526674/iTunes_Top_100_-_Pop_)
+- [iTunes Top 100 - Alternative (US)] (http://www.rdio.com/#/people/sluzorz/playlists/526679/iTunes_Top_100_-_Alternative_)
+- [iTunes Top 100 - Rock (US)](http://www.rdio.com/#/people/sluzorz/playlists/526683/iTunes_Top_100_-_Rock_)
+
+Currently, one of my personal servers keeps this in sync. You're free to adopt this script on your own systems. If you want me to maintain a list that isn't listed here, feel free to message me!
+
 How to use
 ==========
 
@@ -10,32 +20,31 @@ How to use
 
     `http://developer.rdio.com/member/register`
 
-- Edit the invoke script with the proper Rdio Playlist IDs and iTunes URLs.
+- Edit the invoke script `invoke.php` with the proper Rdio Playlist IDs and iTunes URLs.
 
     - You must already have created the playlist.
     - You can find iTunes RSS feeds here:
 
         `http://itunes.apple.com/rss/generator/`
 
-- THEN:
+- You can then execute the invoke script by:
 
-        You can use the invoke script:
+    `php invoke.php`
 
-        `php invoke.php`
+- Or you can run the script as a one time use:
 
-        -- OR --
+    `php itunes-to-rdio.php <Rdio Playlist ID> <iTunes RSS URL>`
 
-        You can run the script individually:
 
-        `php itunes-to-rdio.php <Rdio Playlist ID> <iTunes Playlist URL>`
-
-Example iTunes URL:
+### Example iTunes URL:
 
 `http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topsongs/sf=143441/limit=100/json`
 
-Example Rdio Playlist URL:
+### Example Rdio Playlist URL:
 
 `http://www.rdio.com/#/people/sluzorz/playlists/294061/Mixed_(Rock__Pop)/`
+
+Note from the above URL, that `294061` is the ID that the script requires.
 
 How it works
 ============
