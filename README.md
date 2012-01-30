@@ -13,8 +13,14 @@ I use Rdio a lot and I saw a lot of playlists like "iTunes Top 100" or anything 
 
 Currently, one of my personal servers keeps this in sync. You're free to adopt this script on your own systems. If you want me to maintain a list that isn't listed here, feel free to message me!
 
-How to use
+Instructions
 ==========
+
+### Requirements
+
+Make sure you have PHP > 5 installed, I believe it requries php-curl to be installed also. That's it!
+
+### How to use
 
 - You need to edit config.php.sample to include your Rdio Developer Key:
 
